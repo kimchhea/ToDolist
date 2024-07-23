@@ -1,0 +1,17 @@
+.box{
+    width: 500px;
+    height: auto;
+
+}
+.text_light{
+    color: black!important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    background-color: rgb(0, 0, 0)!important;
+}
+input{
+    width: 100%!important;
+    margin-top: 3px!important;
+    margin-right: 5px!important;
+
+}
