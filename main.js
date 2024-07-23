@@ -14,7 +14,7 @@ function TODO() {
       var todo = (document.getElementById("todo").value = "");
     } else {
       var description = `<div class="box d-flex mx-auto justify-content-center align-item-center">
-<p class="py-1 text-start fs-3 w-100 h-75">${todo}  </p>
+<p class="py-1 text-start text-ligth fs-3 w-100 h-75">${todo}  </p>
 <button class=" fw-bold btn btn-success my-2 me-2 h-75"onclick="edited(this)">EDIT</button>  
 <button class="fw-bold  btn btn-danger my-2 h-75" onclick="Delete(this)">REMOVE</button>  
         </div>`;
